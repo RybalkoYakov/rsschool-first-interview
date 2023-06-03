@@ -208,5 +208,3 @@ class Queue {
     return element;
   }
 }
-
-console.log(2 - '-2')
